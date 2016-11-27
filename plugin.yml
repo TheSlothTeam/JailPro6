@@ -1,1 +1,6 @@
-
+name: JailPro  
+description:The plugin that pros use likeall of you people!
+author: TheSlothTeam
+main: TheSlothTeam\example\Main 
+version: 1.0.0
+api: 1.14.0 
